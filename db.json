@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amina",
+      "age": 22,
+      "email": "amina@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Sara",
+      "age": 24,
+      "email": "sara@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Maya",
+      "age": 21,
+      "email": "maya@example.com"
+    },
+    {
+      "name": "hani",
+      "age": 21,
+      "email": "hanikp@gmail.com",
+      "id": "7oWQcBmXDAM"
+    },
+    {
+      "name": "FIDA",
+      "age": 21,
+      "email": "SSWKHJQ",
+      "id": "v3TIA7bqibg"
+    },
+    {
+      "name": "FIDA",
+      "age": 21,
+      "email": "SSWKHJQ@GMAIL.COM",
+      "id": "HvPgqS3GWuo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
