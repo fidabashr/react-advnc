@@ -3,37 +3,38 @@
     {
       "id": "1",
       "name": "Amina",
-      "age": 22,
+      "age": 25,
       "email": "amina@example.com"
     },
     {
-      "name": "Sara",
+      "name": "aleena",
       "age": 24,
-      "email": "sara@example.com"
+      "email": "aleena@gmail.com",
+      "id": "2"
     },
     {
       "id": "3",
       "name": "Maya",
-      "age": 21,
+      "age": 23,
       "email": "maya@example.com"
     },
     {
-      "name": "hani",
+"id": "4",
+      "name": "Riya",
+      "age": 22,
+      "email": "riya@example.com"
+    },
+    {
+      "name": "Hani",
       "age": 21,
       "email": "hanikp@gmail.com",
       "id": "7oWQcBmXDAM"
     },
     {
-      "name": "FIDA",
+      "name": "Fida",
       "age": 21,
       "email": "SSWKHJQ",
       "id": "v3TIA7bqibg"
-    },
-    {
-      "name": "FIDA",
-      "age": 21,
-      "email": "SSWKHJQ@GMAIL.COM",
-      "id": "HvPgqS3GWuo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
